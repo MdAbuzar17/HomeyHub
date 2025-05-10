@@ -11,7 +11,7 @@ Features <br>
 🧾 Responsive UI for desktop and mobile devices <br>
 🔐 User authentication and session management <br>
 <br> <br> 
-Tech Stack
+Tech Stack <br>
 Frontend: HTML, CSS, JavaScript <br>
 Backend: Node.js, Express.js <br>
 Database: MongoDB  <br>
