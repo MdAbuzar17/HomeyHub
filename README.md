@@ -10,7 +10,7 @@ Features <br>
 🧭 Interactive property pages with detailed information <br>
 🧾 Responsive UI for desktop and mobile devices <br>
 🔐 User authentication and session management <br>
-
+<br> <br> 
 Tech Stack
 Frontend: HTML, CSS, JavaScript <br>
 Backend: Node.js, Express.js <br>
