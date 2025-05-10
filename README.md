@@ -3,8 +3,8 @@ HomeyHub is a full-stack web application inspired by Airbnb that allows users to
 <br>
 Live Demo: https://homeyhub.onrender.com/listings
 <br>
-
-Features
+<br>
+Features <br>
 🔍 Browse and search for rental listings <br>
 📋 Add and manage property listings <br>
 🧭 Interactive property pages with detailed information <br>
@@ -15,5 +15,5 @@ Tech Stack
 Frontend: HTML, CSS, JavaScript <br>
 Backend: Node.js, Express.js <br>
 Database: MongoDB  <br>
-Templating Engine: EJS (if used)  <br>
+Templating Engine: EJS  <br>
 Version Control: Git & GitHub  <br>
